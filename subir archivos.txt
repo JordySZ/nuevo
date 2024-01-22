@@ -1,0 +1,21 @@
+git init (iniciar)
+
+git status (ver contenidos del proyecto)
+
+git add (nombre del archivo que deseamos subir)
+
+git add . (todos los archivos)
+
+git commit -m "cambios"
+
+git branch -M main (decir que vamos a subir un archivo)
+
+git remote add origin https://github.com/JordySZ/login.git
+
+git push -u origin main (subir)
+
+
+
+
+
+
